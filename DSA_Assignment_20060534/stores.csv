@@ -1,0 +1,10 @@
+Home,CablesRUs,4
+Home,LeadsRUs,5
+Home,TechIsUs,2.5
+Home,gadgetsRUs,3
+CablesRUs,LeadsRUs,3
+CablesRUs,TechIsUs,2.5
+CablesRUs,gadgetsRUs,5
+LeadsRUs,TechIsUs,2.5
+LeadsRUs,gadgetsRUs,4
+TechIsUs,gadgetsRUs,2.5
